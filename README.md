@@ -1,4 +1,4 @@
-# Entra21.Exercicios1
+# Entra21.Java
 ## Exercícios que útilizam somente 1 classe.
 
 <div>
