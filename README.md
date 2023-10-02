@@ -6,5 +6,5 @@
    </div>
    
 ## Descrição do projeto
- > Compartilhamento de exercícios básicos executados durante o curso de programação em Java do Entra 21. Exercícos para iniciantes.
+
 
